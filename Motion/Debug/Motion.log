@@ -1,0 +1,6 @@
+﻿  Sir.cpp
+c:\users\mmuma\documents\visual studio 2015\projects\hw3-ctis164\motion\sir.cpp(150): error C3861: 'f': identifier not found
+c:\users\mmuma\documents\visual studio 2015\projects\hw3-ctis164\motion\sir.cpp(150): error C2660: 'glVertex2f': function does not take 1 arguments
+c:\users\mmuma\documents\visual studio 2015\projects\hw3-ctis164\motion\sir.cpp(168): error C3861: 'f': identifier not found
+c:\users\mmuma\documents\visual studio 2015\projects\hw3-ctis164\motion\sir.cpp(168): error C2660: 'circle': function does not take 2 arguments
+c:\users\mmuma\documents\visual studio 2015\projects\hw3-ctis164\motion\sir.cpp(348): error C3861: 'f': identifier not found
